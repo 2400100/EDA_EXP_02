@@ -69,5 +69,6 @@ plt.show()
 
 <img width="850" height="470" alt="download" src="https://github.com/user-attachments/assets/87c3155f-ecd7-4c8e-950b-191a7c833ca2" />
 
-**Result**
+**Result:**
+
 Helps Netflix in content planning & investments.
